@@ -6,7 +6,6 @@ import Confirmation from "./component/Confirmation";
 import SignUp from "./component/SignUp";
 import LogIn from "./component/LogIn";
 import Wishlist from "./component/Wishlist";
-import CustomerSupport from "./component/CustomerSupport"; 
 import { WishlistProvider } from "./component/WishlistContext";
 import { CartProvider } from "./component/CartContext";
 import Profile from "./component/Profile";  
